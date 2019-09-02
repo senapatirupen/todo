@@ -13,7 +13,7 @@ Other: ELK (Elasticsearch, Logstash, and Kibana), Udemy,
 #
 Testing: Selenium, ProtractorJS, Cucumber, Applitools, Extent Report, Birt Report, Jasper Report, IReport
 #
-Java Tool: Base64, MDB5, Maven, Jira Rest Client, PDF, CSV, XML, Object Mapper(with serialization), 
+Java Tool: Base64, MDB5, Maven, Jira Rest Client, PDF, CSV, XML, Object Mapper(with serialization), Oreka Mapper
 #
 Server: Tomcat, JBoss, WebLogic, Azur, Jetty, PCF, AWS Soluation Architecture, 
 #
